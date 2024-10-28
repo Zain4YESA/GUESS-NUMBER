@@ -1,1 +1,1 @@
-# GUESS-NUMBER by asm only
+# GUESS-NUMBER
